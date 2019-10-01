@@ -7,3 +7,6 @@ Run this JS code in the browser by using the [Custom JavaScript for Websites](ht
 Example for *Fight Club*:
 
 ![alt text](https://github.com/konstantinosftw/RottenToIMDb/blob/master/visual.png "Fight Club")
+
+
+**EDIT Oct 2019** Unfortunately the author discontinued the above Chrome extension.
